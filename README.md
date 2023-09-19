@@ -2,7 +2,7 @@
 
 - 🔭 Estou começando novos projetos
 - 🌱 Estudando HTML, CSS e Javascript
-- 📫 Contate-me no e-mail: vanessapazzini2@gmail.com
+- 🚀 Mergulhando de cabeça no mundo da tecnologia 
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
