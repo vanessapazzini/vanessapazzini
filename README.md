@@ -8,8 +8,8 @@
   <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>![c++](https://github.com/vanessapazzini/vanessapazzini/assets/138176528/bf9756ba-1ae6-4dd8-8bcd-d39013d3ff40)
-
+  <img align="center" alt="Van-C++" height="30" width="40" src="https://github.com/vanessapazzini/vanessapazzini/assets/138176528/7b5526c5-98b9-4acc-b560-563ba0ba7582">
+ 
   
   ##
  
