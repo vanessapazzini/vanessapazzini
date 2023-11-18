@@ -3,7 +3,7 @@
 - 🔭 Estou começando novos projetos
 - 🌱 Estudando HTML, CSS e Javascript
 - 🚀 Mergulhando de cabeça no mundo da tecnologia
-- 📌 Estou iniciando uma nova aventura no mundo da programação, começando do 0, venho aqui registrar uma tragetória! Ainda é o começo, mas ja ficará salvo e registrado cada passo a passo, e cada projetino do que eu for aprendendo nesse caminho.
+- 📌 Estou iniciando uma nova aventura no mundo da programação, começando do 0, e venho aqui registrar uma tragetória! Ainda é o começo, mas ja ficará salvo e registrado cada passo a passo, e cada projetino do que eu for aprendendo nesse caminho.
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
