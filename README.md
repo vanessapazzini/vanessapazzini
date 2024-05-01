@@ -18,12 +18,13 @@
   <a href="https://www.instagram.com/vanpazzini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vanessapazzini2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-pazzini-a440a6263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
+ 
+ ## 
+ 
  <p> Para ver outros projetos e meu currículo online, me encontre também na DIO:  </p>
 💻 <a href="https://web.dio.me/users/vanessapazzini2?tab=achievements" target="_blank"> <img align="center" height="30" width="45" src="https://img.shields.io/badge/DIO-4e3b8c?style=for-the-flat-square&logoSize=auto" target="_blank" position="center"> </a>
   
-  
-  
-</div>
+ </div>
 
 ##
 
