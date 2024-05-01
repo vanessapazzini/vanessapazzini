@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Vanessa Pazzini, estudante de Ciência da Computação!
 
 - 🔭 Estou começando novos projetos
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando HTML, CSS, Javascript e Python.
 - 🚀 Mergulhando de cabeça no mundo da tecnologia
 - 📌 Estou iniciando uma nova aventura no mundo da programação, começando do 0, e venho aqui registrar uma tragetória! Ainda é o começo, mas ja ficará salvo e registrado cada passo a passo, e cada projetinho do que eu for aprendendo nesse caminho.
  
@@ -9,7 +9,7 @@
   <img align="center" alt="Van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Van-C++" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Van-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
  
   
