@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Vanessa Pazzini, estudante de Ciência da Computação!
 
 - 🔭 Estou começando novos projetos.
-- 🌱 Estudando HTML, CSS, Javascript e Python.
 - 🚀 Mergulhando de cabeça no mundo da tecnologia.
 - 📌 Estou iniciando uma nova aventura no mundo da programação, começando do 0, e venho aqui registrar uma tragetória! Ainda é o começo, mas ja ficará salvo e registrado cada passo a passo, e cada projetinho do que eu for aprendendo nesse caminho.
  
