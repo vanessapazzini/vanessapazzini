@@ -1,6 +1,7 @@
-## Olá! Eu sou a Vanessa Pazzini, estudante de Ciência da Computação!
+## Olá! Pode me chamar de Pazzini!
 
 - 🔭 Estou começando novos projetos.
+- 💻 Estudante de Ciência da Computação
 - 🚀 Mergulhando de cabeça no mundo da tecnologia.
 - 📌 Estou iniciando uma nova aventura no mundo da programação, começando do 0, e venho aqui registrar uma tragetória! Ainda é o começo, mas ja ficará salvo e registrado cada passo a passo, e cada projetinho do que eu for aprendendo nesse caminho.
  
