@@ -1,33 +1,28 @@
-## Olá! Pode me chamar de Pazzini!
+# [ SYSTEM STATUS: IN TRANSIT ]
 
-- 🔭 Estou começando novos projetos.
-- 💻 Estudante de Ciência da Computação
-- 🚀 Mergulhando de cabeça no mundo da tecnologia.
-- 📌 Estou iniciando uma nova aventura no mundo da programação, começando do 0, e venho aqui registrar uma tragetória! Ainda é o começo, mas ja ficará salvo e registrado cada passo a passo, e cada projetinho do que eu for aprendendo nesse caminho.
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Van-Py" height="36" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
- 
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/vanpazzini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vanessapazzini2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanessa-pazzini-a440a6263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
- 
- ## 
- 
- <p> Para ver outros projetos e meu currículo online, me encontre também na DIO:  </p>
-💻 <a href="https://web.dio.me/users/vanessapazzini2?tab=achievements" target="_blank"> <img align="center" height="30" width="45" src="https://img.shields.io/badge/DIO-4e3b8c?style=for-the-flat-square&logoSize=auto" target="_blank" position="center"> </a>
-  
- </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=9e0000&height=100&section=header&text=VOIDFOX&fontSize=70&fontAlignY=40&fontAlign=80&desc=NOT%20INDEXED&descAlign=80&descAlignY=60" />
+</p>
 
-##
+## 📂 _archives / identity
+> **"Not hidden. Just not indexed."**
 
- ### Fav Developments:
-- 🎮 [Guessing Game](https://github.com/vanessapazzini/GUESSING-GAME) - JavaScript
-- 💰 [Conversor de Moedas](https://github.com/vanessapazzini/Conversor-de-Moedas) - JavaScript
+**VoidFox** is a nomadic observer of the cyberspace. 
+Operating under the belief that *Truth > Loyalty*, she doesn't breach systems—she simply exists where the data is most honest.
+
+* **Class:** OSINT / AppSec / Systems Observer
+* **Archetype:** Urban Fox / Digital Trenchcoat
+* **Status:** [ AMBIGUOUS ]
+* **Location:** `127.0.0.1`
+
+---
+
+### 🛠️ .terminal_tools
+```bash
+# Loading core modules...
+$ voidtrace --list-capabilities
+
+> OSINT........[92%]
+> AppSec.......[85%]
+> Forensics....[77%]
+> Stealth......[100%]
