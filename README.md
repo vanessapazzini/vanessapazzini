@@ -1,7 +1,7 @@
 ## Olá! Pode me chamar de Pazzini!
 
 - 🔭 Estou começando novos projetos.
-- 💻 Estudante de Ciência da Computação
+- 💻 Estudante de Ciência da Computação e Segurança Cibernética
 - 🚀 Mergulhando de cabeça no mundo da tecnologia.
 
 <div style="display: inline_block"><br>
