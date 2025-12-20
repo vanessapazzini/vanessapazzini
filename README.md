@@ -32,7 +32,7 @@ Oie! Pode me chamar de **Pazzini**.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
 </p>
 
-## ⚙️ Stack & Ferramentas
+## ⚙️ Field Kit
 
 ### 💻 Dev & Security Stack
 <p align="left">
