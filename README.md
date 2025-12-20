@@ -6,14 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff4fa3&height=40&section=header&text=Lost%20in%20the%20signal.%20Seen%20by%20none.&fontSize=20&fontColor=ff4fa3"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff003c&height=40&section=header&text=Lost%20in%20the%20signal.%20Seen%20by%20none.&fontSize=20&fontColor=ff003c"/>
 </p>
 
 <p align="center">
   <i>Not hidden. Just not indexed.</i>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
+</p>
 
 ## 🕶️ Quem sou
 
@@ -26,7 +28,9 @@ Oie! Pode me chamar de **Pazzini**.
 
 🔭 Realizando projetos na interseção entre tecnologia e segurança.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
+</p>
 
 ## ⚙️ Stack & Ferramentas
 
@@ -42,7 +46,9 @@ Oie! Pode me chamar de **Pazzini**.
 - Análise de superfícies de ataque
 - Labs, CTFs e ambientes vulneráveis
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
+</p>
 
 ## 🧠 Method
 
@@ -53,24 +59,31 @@ Oie! Pode me chamar de **Pazzini**.
 - Document only what matters  
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
+</p>
 
 ## 🌐 Conexões
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/vanpazzini" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-ff4fa3?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Instagram-ff4fa3?style=for-the-badge"/>
   </a>
-
 
   <a href="https://www.linkedin.com/in/vanessa-pazzini-a440a6263/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
+  </a>
+</p>
+
 
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c9cff,100:ff3c3c&height=80&section=footer&text=tracking%20what%20matters&fontSize=18&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:1f6feb&height=80&section=footer&text=tracking%20what%20matters&fontSize=18&fontColor=ffffff"/>
 </p>
+
