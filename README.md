@@ -68,10 +68,6 @@ Hey! You can call me **Pazzini**.
 > Low noise. High intent.
 
 
-
-  </a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
 </p>
