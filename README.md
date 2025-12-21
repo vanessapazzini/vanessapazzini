@@ -17,16 +17,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
 </p>
 
-## 🕶️ Who am I?
+## 🧠 Profile
 
-Hey! You can call me **Pazzini**.
+Pazzini.
 
-🧠 Computer Science & Cybersecurity student, exploring systems, attack surfaces, and the unseen behavior of the web.
+Computer Science & Cybersecurity, focused on understanding systems, attack surfaces, and the invisible behaviors of the web.
 
-👁️ I prefer observing before acting.  
-🧩 Code, flaws, and patterns speak louder than speeches.
+I observe before acting.  
+Code, flaws, and patterns speak louder than speeches.
 
-🔭 Building projects at the intersection of technology and security.
+Building security-minded projects at the intersection of technology and practice.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3&section=footer"/>
