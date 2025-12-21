@@ -19,7 +19,7 @@
 
 ## 🧠 Profile
 
-Pazzini.
+You can call me Pazzini.
 
 Computer Science & Cybersecurity, focused on understanding systems, attack surfaces, and the invisible behaviors of the web.
 
